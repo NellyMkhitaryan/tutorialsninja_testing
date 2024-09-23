@@ -80,3 +80,4 @@ jobs:
           if [ ! -d "allure-results" ]; then
             echo "Allure results directory not found!"
             exit 1
+          fi
